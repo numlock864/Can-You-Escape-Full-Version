@@ -245,4 +245,4 @@ This repository serves as the official landing page for Can You Escape. The soft
 **Get the most recent version of Can You Escape today!**
 
 ---
-**Last updated:** 2026-10-31 13:21:50 UTC
+**Last updated:** 2026-10-31 18:14:22 UTC
